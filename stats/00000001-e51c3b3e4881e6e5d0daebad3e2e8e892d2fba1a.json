@@ -1,0 +1,1156 @@
+{
+  "x86_64": {
+    "/usr/bin/bootctl": {
+      "bss": 376,
+      "data": 160,
+      "text": 201983,
+      "total_size": 619720
+    },
+    "/usr/bin/busctl": {
+      "bss": 88,
+      "data": 120,
+      "text": 96158,
+      "total_size": 277792
+    },
+    "/usr/bin/coredumpctl": {
+      "bss": 136,
+      "data": 121,
+      "text": 43709,
+      "total_size": 189120
+    },
+    "/usr/bin/homectl": {
+      "bss": 264,
+      "data": 184,
+      "text": 205192,
+      "total_size": 616224
+    },
+    "/usr/bin/hostnamectl": {
+      "bss": 24,
+      "data": 24,
+      "text": 29558,
+      "total_size": 104912
+    },
+    "/usr/bin/importctl": {
+      "bss": 96,
+      "data": 28,
+      "text": 43767,
+      "total_size": 175024
+    },
+    "/usr/bin/journalctl": {
+      "bss": 424,
+      "data": 121,
+      "text": 94809,
+      "total_size": 375648
+    },
+    "/usr/bin/kernel-install": {
+      "bss": 64,
+      "data": 80,
+      "text": 45469,
+      "total_size": 161952
+    },
+    "/usr/bin/localectl": {
+      "bss": 40,
+      "data": 10,
+      "text": 13166,
+      "total_size": 71040
+    },
+    "/usr/bin/loginctl": {
+      "bss": 72,
+      "data": 57,
+      "text": 54152,
+      "total_size": 175288
+    },
+    "/usr/bin/machinectl": {
+      "bss": 120,
+      "data": 49,
+      "text": 87949,
+      "total_size": 268912
+    },
+    "/usr/bin/networkctl": {
+      "bss": 32,
+      "data": 56,
+      "text": 175872,
+      "total_size": 670512
+    },
+    "/usr/bin/oomctl": {
+      "bss": 8,
+      "data": 8,
+      "text": 2199,
+      "total_size": 28648
+    },
+    "/usr/bin/portablectl": {
+      "bss": 72,
+      "data": 25,
+      "text": 59201,
+      "total_size": 163920
+    },
+    "/usr/bin/resolvectl": {
+      "bss": 192,
+      "data": 41,
+      "text": 108823,
+      "total_size": 1428696
+    },
+    "/usr/bin/storagectl": {
+      "bss": 16,
+      "data": 18,
+      "text": 26433,
+      "total_size": 102144
+    },
+    "/usr/bin/systemd-ac-power": {
+      "bss": 8,
+      "data": 8,
+      "text": 1837,
+      "total_size": 26776
+    },
+    "/usr/bin/systemd-analyze": {
+      "bss": 424,
+      "data": 185,
+      "text": 203802,
+      "total_size": 857184
+    },
+    "/usr/bin/systemd-ask-password": {
+      "bss": 64,
+      "data": 56,
+      "text": 7475,
+      "total_size": 64104
+    },
+    "/usr/bin/systemd-cat": {
+      "bss": 24,
+      "data": 17,
+      "text": 4515,
+      "total_size": 393528
+    },
+    "/usr/bin/systemd-cgls": {
+      "bss": 40,
+      "data": 12,
+      "text": 7607,
+      "total_size": 50712
+    },
+    "/usr/bin/systemd-cgtop": {
+      "bss": 56,
+      "data": 128,
+      "text": 16983,
+      "total_size": 88184
+    },
+    "/usr/bin/systemd-creds": {
+      "bss": 168,
+      "data": 489,
+      "text": 33983,
+      "total_size": 153616
+    },
+    "/usr/bin/systemd-cryptenroll": {
+      "bss": 480,
+      "data": 105,
+      "text": 109104,
+      "total_size": 383760
+    },
+    "/usr/bin/systemd-cryptsetup": {
+      "bss": 648,
+      "data": 121,
+      "text": 80174,
+      "total_size": 251232
+    },
+    "/usr/bin/systemd-delta": {
+      "bss": 24,
+      "data": 12,
+      "text": 11234,
+      "total_size": 67176
+    },
+    "/usr/bin/systemd-detect-virt": {
+      "bss": 48,
+      "data": 8,
+      "text": 3602,
+      "total_size": 40112
+    },
+    "/usr/bin/systemd-dissect": {
+      "bss": 144,
+      "data": 145,
+      "text": 75189,
+      "total_size": 246688
+    },
+    "/usr/bin/systemd-escape": {
+      "bss": 56,
+      "data": 8,
+      "text": 10563,
+      "total_size": 50248
+    },
+    "/usr/bin/systemd-firstboot": {
+      "bss": 184,
+      "data": 57,
+      "text": 56408,
+      "total_size": 197840
+    },
+    "/usr/bin/systemd-hwdb": {
+      "bss": 32,
+      "data": 8,
+      "text": 1367,
+      "total_size": 26864
+    },
+    "/usr/bin/systemd-id128": {
+      "bss": 40,
+      "data": 24,
+      "text": 8577,
+      "total_size": 64280
+    },
+    "/usr/bin/systemd-inhibit": {
+      "bss": 48,
+      "data": 24,
+      "text": 7568,
+      "total_size": 57632
+    },
+    "/usr/bin/systemd-machine-id-setup": {
+      "bss": 40,
+      "data": 65,
+      "text": 3109,
+      "total_size": 40296
+    },
+    "/usr/bin/systemd-mount": {
+      "bss": 184,
+      "data": 57,
+      "text": 48975,
+      "total_size": 160128
+    },
+    "/usr/bin/systemd-mstack": {
+      "bss": 56,
+      "data": 49,
+      "text": 10415,
+      "total_size": 66400
+    },
+    "/usr/bin/systemd-mute-console": {
+      "bss": 8,
+      "data": 10,
+      "text": 9063,
+      "total_size": 61088
+    },
+    "/usr/bin/systemd-notify": {
+      "bss": 80,
+      "data": 40,
+      "text": 22442,
+      "total_size": 92272
+    },
+    "/usr/bin/systemd-nspawn": {
+      "bss": 816,
+      "data": 313,
+      "text": 384623,
+      "total_size": 1159512
+    },
+    "/usr/bin/systemd-path": {
+      "bss": 24,
+      "data": 8,
+      "text": 3147,
+      "total_size": 40728
+    },
+    "/usr/bin/systemd-pty-forward": {
+      "bss": 24,
+      "data": 8,
+      "text": 7761,
+      "total_size": 52584
+    },
+    "/usr/bin/systemd-repart": {
+      "bss": 1584,
+      "data": 537,
+      "text": 335998,
+      "total_size": 902560
+    },
+    "/usr/bin/systemd-run": {
+      "bss": 312,
+      "data": 36,
+      "text": 117828,
+      "total_size": 324432
+    },
+    "/usr/bin/systemd-socket-activate": {
+      "bss": 88,
+      "data": 12,
+      "text": 14752,
+      "total_size": 69704
+    },
+    "/usr/bin/systemd-stdio-bridge": {
+      "bss": 40,
+      "data": 8,
+      "text": 9859,
+      "total_size": 59280
+    },
+    "/usr/bin/systemd-sysext": {
+      "bss": 56,
+      "data": 57,
+      "text": 92885,
+      "total_size": 284696
+    },
+    "/usr/bin/systemd-sysinstall": {
+      "bss": 88,
+      "data": 249,
+      "text": 61936,
+      "total_size": 233240
+    },
+    "/usr/bin/systemd-sysusers": {
+      "bss": 72,
+      "data": 49,
+      "text": 71113,
+      "total_size": 199432
+    },
+    "/usr/bin/systemd-tmpfiles": {
+      "bss": 232,
+      "data": 48,
+      "text": 154157,
+      "total_size": 405592
+    },
+    "/usr/bin/systemd-tty-ask-password-agent": {
+      "bss": 24,
+      "data": 12,
+      "text": 18373,
+      "total_size": 93152
+    },
+    "/usr/bin/systemd-vmspawn": {
+      "bss": 384,
+      "data": 113,
+      "text": 223750,
+      "total_size": 686688
+    },
+    "/usr/bin/systemd-vpick": {
+      "bss": 48,
+      "data": 88,
+      "text": 9160,
+      "total_size": 55208
+    },
+    "/usr/bin/timedatectl": {
+      "bss": 56,
+      "data": 9,
+      "text": 33012,
+      "total_size": 118528
+    },
+    "/usr/bin/udevadm": {
+      "bss": 848,
+      "data": 352,
+      "text": 697572,
+      "total_size": 2212864
+    },
+    "/usr/bin/updatectl": {
+      "bss": 32,
+      "data": 10,
+      "text": 56672,
+      "total_size": 189280
+    },
+    "/usr/bin/userdbctl": {
+      "bss": 96,
+      "data": 96,
+      "text": 58613,
+      "total_size": 190984
+    },
+    "/usr/bin/varlinkctl": {
+      "bss": 104,
+      "data": 18,
+      "text": 51747,
+      "total_size": 181080
+    },
+    "/usr/lib/cryptsetup/libcryptsetup-token-systemd-fido2.so": {
+      "bss": 7,
+      "data": 17,
+      "text": 6777,
+      "total_size": 36200
+    },
+    "/usr/lib/cryptsetup/libcryptsetup-token-systemd-pkcs11.so": {
+      "bss": 7,
+      "data": 25,
+      "text": 7144,
+      "total_size": 48592
+    },
+    "/usr/lib/cryptsetup/libcryptsetup-token-systemd-tpm2.so": {
+      "bss": 7,
+      "data": 49,
+      "text": 16552,
+      "total_size": 72736
+    },
+    "/usr/lib/libnss_myhostname.so.2": {
+      "bss": 2392,
+      "data": 184,
+      "text": 243489,
+      "total_size": 4006336
+    },
+    "/usr/lib/libnss_mymachines.so.2": {
+      "bss": 2416,
+      "data": 232,
+      "text": 572065,
+      "total_size": 2946440
+    },
+    "/usr/lib/libnss_resolve.so.2": {
+      "bss": 2368,
+      "data": 192,
+      "text": 400945,
+      "total_size": 3282352
+    },
+    "/usr/lib/libnss_systemd.so.2": {
+      "bss": 2672,
+      "data": 184,
+      "text": 618273,
+      "total_size": 4781768
+    },
+    "/usr/lib/libsystemd.so.0.45.0": {
+      "bss": 3320,
+      "data": 352,
+      "text": 1447281,
+      "total_size": 5539944
+    },
+    "/usr/lib/libudev.so.1.7.15": {
+      "bss": 2368,
+      "data": 180,
+      "text": 358337,
+      "total_size": 3100936
+    },
+    "/usr/lib/security/pam_systemd.so": {
+      "bss": 2608,
+      "data": 217,
+      "text": 946481,
+      "total_size": 5365440
+    },
+    "/usr/lib/security/pam_systemd_home.so": {
+      "bss": 2608,
+      "data": 217,
+      "text": 718641,
+      "total_size": 4957224
+    },
+    "/usr/lib/security/pam_systemd_loadkey.so": {
+      "bss": 2448,
+      "data": 161,
+      "text": 65137,
+      "total_size": 2123976
+    },
+    "/usr/lib/systemd/libsystemd-core-263.so": {
+      "bss": 1352,
+      "data": 264,
+      "text": 2198126,
+      "total_size": 7745440
+    },
+    "/usr/lib/systemd/libsystemd-shared-263.so": {
+      "bss": 11800,
+      "data": 4352,
+      "text": 5383201,
+      "total_size": 16528568
+    },
+    "/usr/lib/systemd/system-generators/systemd-bless-boot-generator": {
+      "bss": 8,
+      "data": 8,
+      "text": 1916,
+      "total_size": 23472
+    },
+    "/usr/lib/systemd/system-generators/systemd-clonesetup-generator": {
+      "bss": 16,
+      "data": 8,
+      "text": 8352,
+      "total_size": 40928
+    },
+    "/usr/lib/systemd/system-generators/systemd-cryptsetup-generator": {
+      "bss": 64,
+      "data": 10,
+      "text": 23849,
+      "total_size": 83896
+    },
+    "/usr/lib/systemd/system-generators/systemd-debug-generator": {
+      "bss": 72,
+      "data": 41,
+      "text": 10009,
+      "total_size": 58352
+    },
+    "/usr/lib/systemd/system-generators/systemd-factory-reset-generator": {
+      "bss": 8,
+      "data": 8,
+      "text": 1373,
+      "total_size": 21872
+    },
+    "/usr/lib/systemd/system-generators/systemd-fstab-generator": {
+      "bss": 184,
+      "data": 72,
+      "text": 38427,
+      "total_size": 136224
+    },
+    "/usr/lib/systemd/system-generators/systemd-getty-generator": {
+      "bss": 16,
+      "data": 128,
+      "text": 7900,
+      "total_size": 54120
+    },
+    "/usr/lib/systemd/system-generators/systemd-gpt-auto-generator": {
+      "bss": 72,
+      "data": 97,
+      "text": 30611,
+      "total_size": 111848
+    },
+    "/usr/lib/systemd/system-generators/systemd-hibernate-resume-generator": {
+      "bss": 48,
+      "data": 8,
+      "text": 10870,
+      "total_size": 59568
+    },
+    "/usr/lib/systemd/system-generators/systemd-imds-generator": {
+      "bss": 4,
+      "data": 20,
+      "text": 7370,
+      "total_size": 37848
+    },
+    "/usr/lib/systemd/system-generators/systemd-import-generator": {
+      "bss": 48,
+      "data": 41,
+      "text": 15156,
+      "total_size": 65424
+    },
+    "/usr/lib/systemd/system-generators/systemd-integritysetup-generator": {
+      "bss": 32,
+      "data": 8,
+      "text": 8797,
+      "total_size": 52512
+    },
+    "/usr/lib/systemd/system-generators/systemd-run-generator": {
+      "bss": 40,
+      "data": 8,
+      "text": 3955,
+      "total_size": 35032
+    },
+    "/usr/lib/systemd/system-generators/systemd-ssh-generator": {
+      "bss": 16,
+      "data": 49,
+      "text": 12894,
+      "total_size": 66208
+    },
+    "/usr/lib/systemd/system-generators/systemd-system-update-generator": {
+      "bss": 16,
+      "data": 8,
+      "text": 2486,
+      "total_size": 24008
+    },
+    "/usr/lib/systemd/system-generators/systemd-tpm2-generator": {
+      "bss": 24,
+      "data": 33,
+      "text": 4388,
+      "total_size": 33528
+    },
+    "/usr/lib/systemd/system-generators/systemd-veritysetup-generator": {
+      "bss": 88,
+      "data": 10,
+      "text": 13721,
+      "total_size": 61560
+    },
+    "/usr/lib/systemd/systemd": {
+      "bss": 848,
+      "data": 136,
+      "text": 156373,
+      "total_size": 536968
+    },
+    "/usr/lib/systemd/systemd-backlight": {
+      "bss": 8,
+      "data": 8,
+      "text": 17657,
+      "total_size": 71272
+    },
+    "/usr/lib/systemd/systemd-battery-check": {
+      "bss": 48,
+      "data": 9,
+      "text": 4168,
+      "total_size": 40384
+    },
+    "/usr/lib/systemd/systemd-binfmt": {
+      "bss": 16,
+      "data": 8,
+      "text": 7210,
+      "total_size": 46464
+    },
+    "/usr/lib/systemd/systemd-bless-boot": {
+      "bss": 16,
+      "data": 9,
+      "text": 17908,
+      "total_size": 73368
+    },
+    "/usr/lib/systemd/systemd-boot-check-no-failures": {
+      "bss": 8,
+      "data": 8,
+      "text": 2130,
+      "total_size": 26960
+    },
+    "/usr/lib/systemd/systemd-bsod": {
+      "bss": 24,
+      "data": 33,
+      "text": 11225,
+      "total_size": 57488
+    },
+    "/usr/lib/systemd/systemd-clonesetup": {
+      "bss": 8,
+      "data": 8,
+      "text": 12769,
+      "total_size": 66144
+    },
+    "/usr/lib/systemd/systemd-coredump": {
+      "bss": 4,
+      "data": 65,
+      "text": 113177,
+      "total_size": 359352
+    },
+    "/usr/lib/systemd/systemd-executor": {
+      "bss": 200,
+      "data": 105,
+      "text": 172600,
+      "total_size": 540280
+    },
+    "/usr/lib/systemd/systemd-export": {
+      "bss": 16,
+      "data": 65,
+      "text": 24589,
+      "total_size": 151152
+    },
+    "/usr/lib/systemd/systemd-factory-reset": {
+      "bss": 8,
+      "data": 8,
+      "text": 11662,
+      "total_size": 69768
+    },
+    "/usr/lib/systemd/systemd-fsck": {
+      "bss": 12,
+      "data": 12,
+      "text": 12952,
+      "total_size": 64368
+    },
+    "/usr/lib/systemd/systemd-growfs": {
+      "bss": 96,
+      "data": 17,
+      "text": 10277,
+      "total_size": 51088
+    },
+    "/usr/lib/systemd/systemd-hibernate-resume": {
+      "bss": 72,
+      "data": 8,
+      "text": 11214,
+      "total_size": 61992
+    },
+    "/usr/lib/systemd/systemd-homed": {
+      "bss": 208,
+      "data": 65,
+      "text": 216753,
+      "total_size": 734152
+    },
+    "/usr/lib/systemd/systemd-homework": {
+      "bss": 1424,
+      "data": 65,
+      "text": 312507,
+      "total_size": 864824
+    },
+    "/usr/lib/systemd/systemd-hostnamed": {
+      "bss": 8,
+      "data": 32,
+      "text": 51928,
+      "total_size": 202504
+    },
+    "/usr/lib/systemd/systemd-imds": {
+      "bss": 40,
+      "data": 20,
+      "text": 28330,
+      "total_size": 132736
+    },
+    "/usr/lib/systemd/systemd-imdsd": {
+      "bss": 272,
+      "data": 41,
+      "text": 86443,
+      "total_size": 300088
+    },
+    "/usr/lib/systemd/systemd-import": {
+      "bss": 24,
+      "data": 89,
+      "text": 51303,
+      "total_size": 202376
+    },
+    "/usr/lib/systemd/systemd-import-fs": {
+      "bss": 24,
+      "data": 16,
+      "text": 19082,
+      "total_size": 108936
+    },
+    "/usr/lib/systemd/systemd-importd": {
+      "bss": 8,
+      "data": 48,
+      "text": 40582,
+      "total_size": 206240
+    },
+    "/usr/lib/systemd/systemd-integritysetup": {
+      "bss": 168,
+      "data": 17,
+      "text": 8492,
+      "total_size": 52760
+    },
+    "/usr/lib/systemd/systemd-journal-gatewayd": {
+      "bss": 208,
+      "data": 41,
+      "text": 28584,
+      "total_size": 125520
+    },
+    "/usr/lib/systemd/systemd-journal-remote": {
+      "bss": 296,
+      "data": 113,
+      "text": 52534,
+      "total_size": 221544
+    },
+    "/usr/lib/systemd/systemd-journal-upload": {
+      "bss": 264,
+      "data": 65,
+      "text": 42846,
+      "total_size": 222792
+    },
+    "/usr/lib/systemd/systemd-journald": {
+      "bss": 80,
+      "data": 2912,
+      "text": 244200,
+      "total_size": 772776
+    },
+    "/usr/lib/systemd/systemd-keyutil": {
+      "bss": 232,
+      "data": 9,
+      "text": 11455,
+      "total_size": 65544
+    },
+    "/usr/lib/systemd/systemd-localed": {
+      "bss": 56,
+      "data": 33,
+      "text": 27856,
+      "total_size": 117008
+    },
+    "/usr/lib/systemd/systemd-logind": {
+      "bss": 8,
+      "data": 96,
+      "text": 313791,
+      "total_size": 1137168
+    },
+    "/usr/lib/systemd/systemd-machined": {
+      "bss": 8,
+      "data": 88,
+      "text": 194358,
+      "total_size": 675472
+    },
+    "/usr/lib/systemd/systemd-makefs": {
+      "bss": 7,
+      "data": 17,
+      "text": 3680,
+      "total_size": 25696
+    },
+    "/usr/lib/systemd/systemd-measure": {
+      "bss": 384,
+      "data": 49,
+      "text": 33331,
+      "total_size": 128088
+    },
+    "/usr/lib/systemd/systemd-modules-load": {
+      "bss": 24,
+      "data": 9,
+      "text": 13210,
+      "total_size": 71576
+    },
+    "/usr/lib/systemd/systemd-mountfsd": {
+      "bss": 8,
+      "data": 8,
+      "text": 10727,
+      "total_size": 59184
+    },
+    "/usr/lib/systemd/systemd-mountwork": {
+      "bss": 7,
+      "data": 33,
+      "text": 44779,
+      "total_size": 165800
+    },
+    "/usr/lib/systemd/systemd-network-generator": {
+      "bss": 16,
+      "data": 8,
+      "text": 48229,
+      "total_size": 157704
+    },
+    "/usr/lib/systemd/systemd-networkd": {
+      "bss": 120,
+      "data": 500,
+      "text": 1764024,
+      "total_size": 6870048
+    },
+    "/usr/lib/systemd/systemd-networkd-wait-online": {
+      "bss": 32,
+      "data": 24,
+      "text": 27953,
+      "total_size": 125952
+    },
+    "/usr/lib/systemd/systemd-nsresourced": {
+      "bss": 208,
+      "data": 9,
+      "text": 60468,
+      "total_size": 291048
+    },
+    "/usr/lib/systemd/systemd-nsresourcework": {
+      "bss": 112,
+      "data": 32,
+      "text": 127231,
+      "total_size": 425880
+    },
+    "/usr/lib/systemd/systemd-oomd": {
+      "bss": 16,
+      "data": 32,
+      "text": 76844,
+      "total_size": 268064
+    },
+    "/usr/lib/systemd/systemd-pcrextend": {
+      "bss": 104,
+      "data": 57,
+      "text": 15926,
+      "total_size": 98040
+    },
+    "/usr/lib/systemd/systemd-pcrlock": {
+      "bss": 248,
+      "data": 97,
+      "text": 159482,
+      "total_size": 465080
+    },
+    "/usr/lib/systemd/systemd-portabled": {
+      "bss": 8,
+      "data": 73,
+      "text": 102823,
+      "total_size": 360120
+    },
+    "/usr/lib/systemd/systemd-pstore": {
+      "bss": 8,
+      "data": 32,
+      "text": 9224,
+      "total_size": 49104
+    },
+    "/usr/lib/systemd/systemd-pull": {
+      "bss": 184,
+      "data": 105,
+      "text": 170424,
+      "total_size": 537824
+    },
+    "/usr/lib/systemd/systemd-quotacheck": {
+      "bss": 8,
+      "data": 8,
+      "text": 2707,
+      "total_size": 26528
+    },
+    "/usr/lib/systemd/systemd-random-seed": {
+      "bss": 8,
+      "data": 12,
+      "text": 11990,
+      "total_size": 62232
+    },
+    "/usr/lib/systemd/systemd-remount-fs": {
+      "bss": 64,
+      "data": 9,
+      "text": 5111,
+      "total_size": 40192
+    },
+    "/usr/lib/systemd/systemd-reply-password": {
+      "bss": 16,
+      "data": 8,
+      "text": 3322,
+      "total_size": 28008
+    },
+    "/usr/lib/systemd/systemd-report": {
+      "bss": 192,
+      "data": 33,
+      "text": 49450,
+      "total_size": 208352
+    },
+    "/usr/lib/systemd/systemd-report-basic": {
+      "bss": 8,
+      "data": 8,
+      "text": 15377,
+      "total_size": 100704
+    },
+    "/usr/lib/systemd/systemd-report-cgroup": {
+      "bss": 8,
+      "data": 8,
+      "text": 11369,
+      "total_size": 65856
+    },
+    "/usr/lib/systemd/systemd-report-diskspace": {
+      "bss": 112,
+      "data": 9,
+      "text": 12740,
+      "total_size": 75368
+    },
+    "/usr/lib/systemd/systemd-report-files": {
+      "bss": 8,
+      "data": 8,
+      "text": 8622,
+      "total_size": 55696
+    },
+    "/usr/lib/systemd/systemd-report-hwmon": {
+      "bss": 8,
+      "data": 8,
+      "text": 8026,
+      "total_size": 56712
+    },
+    "/usr/lib/systemd/systemd-report-sign-plain": {
+      "bss": 144,
+      "data": 9,
+      "text": 12014,
+      "total_size": 73800
+    },
+    "/usr/lib/systemd/systemd-report-sign-tpm2": {
+      "bss": 8,
+      "data": 41,
+      "text": 33397,
+      "total_size": 136984
+    },
+    "/usr/lib/systemd/systemd-report-sign-tsm": {
+      "bss": 8,
+      "data": 8,
+      "text": 4490,
+      "total_size": 46672
+    },
+    "/usr/lib/systemd/systemd-resolved": {
+      "bss": 1112,
+      "data": 104,
+      "text": 615445,
+      "total_size": 2114720
+    },
+    "/usr/lib/systemd/systemd-rfkill": {
+      "bss": 8,
+      "data": 8,
+      "text": 12320,
+      "total_size": 57568
+    },
+    "/usr/lib/systemd/systemd-sbsign": {
+      "bss": 696,
+      "data": 9,
+      "text": 24613,
+      "total_size": 123512
+    },
+    "/usr/lib/systemd/systemd-shutdown": {
+      "bss": 176,
+      "data": 17,
+      "text": 53540,
+      "total_size": 191960
+    },
+    "/usr/lib/systemd/systemd-sleep": {
+      "bss": 8,
+      "data": 8,
+      "text": 37102,
+      "total_size": 130944
+    },
+    "/usr/lib/systemd/systemd-socket-proxyd": {
+      "bss": 24,
+      "data": 24,
+      "text": 19544,
+      "total_size": 84904
+    },
+    "/usr/lib/systemd/systemd-ssh-issue": {
+      "bss": 32,
+      "data": 8,
+      "text": 6706,
+      "total_size": 47976
+    },
+    "/usr/lib/systemd/systemd-ssh-proxy": {
+      "bss": 8,
+      "data": 8,
+      "text": 17911,
+      "total_size": 67944
+    },
+    "/usr/lib/systemd/systemd-storage-block": {
+      "bss": 8,
+      "data": 8,
+      "text": 8308,
+      "total_size": 65000
+    },
+    "/usr/lib/systemd/systemd-storage-fs": {
+      "bss": 8,
+      "data": 64,
+      "text": 15729,
+      "total_size": 87232
+    },
+    "/usr/lib/systemd/systemd-storagetm": {
+      "bss": 40,
+      "data": 8,
+      "text": 43787,
+      "total_size": 148760
+    },
+    "/usr/lib/systemd/systemd-sulogin-shell": {
+      "bss": 16,
+      "data": 8,
+      "text": 3872,
+      "total_size": 33608
+    },
+    "/usr/lib/systemd/systemd-sysctl": {
+      "bss": 48,
+      "data": 8,
+      "text": 16702,
+      "total_size": 78856
+    },
+    "/usr/lib/systemd/systemd-sysupdate": {
+      "bss": 440,
+      "data": 249,
+      "text": 240899,
+      "total_size": 669008
+    },
+    "/usr/lib/systemd/systemd-sysupdated": {
+      "bss": 8,
+      "data": 56,
+      "text": 41092,
+      "total_size": 175928
+    },
+    "/usr/lib/systemd/systemd-time-wait-sync": {
+      "bss": 8,
+      "data": 8,
+      "text": 5543,
+      "total_size": 97896
+    },
+    "/usr/lib/systemd/systemd-timedated": {
+      "bss": 24,
+      "data": 32,
+      "text": 30978,
+      "total_size": 124232
+    },
+    "/usr/lib/systemd/systemd-timesyncd": {
+      "bss": 8,
+      "data": 64,
+      "text": 53306,
+      "total_size": 204888
+    },
+    "/usr/lib/systemd/systemd-tpm2-clear": {
+      "bss": 8,
+      "data": 25,
+      "text": 2752,
+      "total_size": 32480
+    },
+    "/usr/lib/systemd/systemd-tpm2-setup": {
+      "bss": 64,
+      "data": 49,
+      "text": 17949,
+      "total_size": 88688
+    },
+    "/usr/lib/systemd/systemd-tpm2-swtpm": {
+      "bss": 7,
+      "data": 9,
+      "text": 8262,
+      "total_size": 46424
+    },
+    "/usr/lib/systemd/systemd-update-done": {
+      "bss": 16,
+      "data": 8,
+      "text": 3379,
+      "total_size": 31360
+    },
+    "/usr/lib/systemd/systemd-update-utmp": {
+      "bss": 16,
+      "data": 9,
+      "text": 3175,
+      "total_size": 26984
+    },
+    "/usr/lib/systemd/systemd-user-runtime-dir": {
+      "bss": 7,
+      "data": 9,
+      "text": 15812,
+      "total_size": 75872
+    },
+    "/usr/lib/systemd/systemd-user-sessions": {
+      "bss": 8,
+      "data": 8,
+      "text": 1036,
+      "total_size": 21160
+    },
+    "/usr/lib/systemd/systemd-userdbd": {
+      "bss": 8,
+      "data": 8,
+      "text": 12556,
+      "total_size": 66368
+    },
+    "/usr/lib/systemd/systemd-userwork": {
+      "bss": 8,
+      "data": 8,
+      "text": 14809,
+      "total_size": 76944
+    },
+    "/usr/lib/systemd/systemd-validatefs": {
+      "bss": 120,
+      "data": 9,
+      "text": 14261,
+      "total_size": 66816
+    },
+    "/usr/lib/systemd/systemd-vconsole-setup": {
+      "bss": 8,
+      "data": 8,
+      "text": 23024,
+      "total_size": 78960
+    },
+    "/usr/lib/systemd/systemd-veritysetup": {
+      "bss": 240,
+      "data": 65,
+      "text": 18547,
+      "total_size": 75368
+    },
+    "/usr/lib/systemd/systemd-volatile-root": {
+      "bss": 7,
+      "data": 9,
+      "text": 8893,
+      "total_size": 40192
+    },
+    "/usr/lib/systemd/systemd-xdg-autostart-condition": {
+      "bss": 8,
+      "data": 8,
+      "text": 1196,
+      "total_size": 21624
+    },
+    "/usr/lib/systemd/user-environment-generators/30-systemd-environment-d-generator": {
+      "bss": 8,
+      "data": 8,
+      "text": 2406,
+      "total_size": 30216
+    },
+    "/usr/lib/systemd/user-generators/systemd-xdg-autostart-generator": {
+      "bss": 8,
+      "data": 8,
+      "text": 19194,
+      "total_size": 81280
+    },
+    "/usr/lib/udev/ata_id": {
+      "bss": 16,
+      "data": 8,
+      "text": 11252,
+      "total_size": 51952
+    },
+    "/usr/lib/udev/cdrom_id": {
+      "bss": 16,
+      "data": 8,
+      "text": 18798,
+      "total_size": 74056
+    },
+    "/usr/lib/udev/dmi_memory_id": {
+      "bss": 16,
+      "data": 864,
+      "text": 9755,
+      "total_size": 58040
+    },
+    "/usr/lib/udev/fido_id": {
+      "bss": 24,
+      "data": 8,
+      "text": 4601,
+      "total_size": 39320
+    },
+    "/usr/lib/udev/iocost": {
+      "bss": 16,
+      "data": 8,
+      "text": 8742,
+      "total_size": 51984
+    },
+    "/usr/lib/udev/mtd_probe": {
+      "bss": 16,
+      "data": 8,
+      "text": 3658,
+      "total_size": 35432
+    },
+    "/usr/lib/udev/scsi_id": {
+      "bss": 704,
+      "data": 548,
+      "text": 24042,
+      "total_size": 92456
+    },
+    "/usr/lib/udev/v4l_id": {
+      "bss": 16,
+      "data": 8,
+      "text": 2374,
+      "total_size": 28720
+    },
+    "/usr/share/bash-completion/completions/systemctl": {
+      "bss": 344,
+      "data": 288,
+      "text": 313484,
+      "total_size": 958296
+    }
+  }
+}
